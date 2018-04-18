@@ -1,0 +1,15 @@
+# ninja log v5
+1	120	0	CMakeFiles/native_app_glue.dir/C_/Users/patri/AppData/Local/Android/Sdk/ndk-bundle/sources/android/native_app_glue/android_native_app_glue.c.o	bd7bf071c59a8f88
+121	188	0	libnative_app_glue.a	8b2538ad9adb03ec
+188	478	0	CMakeFiles/native-activity.dir/AudioPlayer.cpp.o	d9bc782c749df1b8
+190	541	0	CMakeFiles/native-activity.dir/main.cpp.o	d539d5467918d465
+542	809	0	C:/androidlib/native-activity/app/build/intermediates/cmake/debug/obj/x86/libnative-activity.so	f783a335d35fc08b
+5	286	0	CMakeFiles/native-activity.dir/AudioPlayer.cpp.o	d9bc782c749df1b8
+286	391	0	C:/androidlib/native-activity/app/build/intermediates/cmake/debug/obj/x86/libnative-activity.so	f783a335d35fc08b
+4	290	0	CMakeFiles/native-activity.dir/AudioPlayer.cpp.o	d9bc782c749df1b8
+290	392	0	C:/androidlib/native-activity/app/build/intermediates/cmake/debug/obj/x86/libnative-activity.so	f783a335d35fc08b
+3	292	0	CMakeFiles/native-activity.dir/AudioPlayer.cpp.o	d9bc782c749df1b8
+5	369	0	CMakeFiles/native-activity.dir/main.cpp.o	d539d5467918d465
+369	486	0	C:/androidlib/native-activity/app/build/intermediates/cmake/debug/obj/x86/libnative-activity.so	f783a335d35fc08b
+5	444	0	CMakeFiles/native-activity.dir/main.cpp.o	d539d5467918d465
+444	565	0	C:/androidlib/native-activity/app/build/intermediates/cmake/debug/obj/x86/libnative-activity.so	f783a335d35fc08b

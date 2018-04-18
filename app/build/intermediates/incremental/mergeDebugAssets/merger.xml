@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\androidlib\native-activity\app\src\main\assets"><file name="background.mp3" path="C:\androidlib\native-activity\app\src\main\assets\background.mp3"/></source><source path="C:\androidlib\native-activity\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\androidlib\native-activity\app\src\debug\assets"/></dataSet></merger>

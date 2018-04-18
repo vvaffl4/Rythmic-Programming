@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Wed Apr 18 00:17:13 CEST 2018
+1.base=C\:\\androidlib\\native-activity\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+2.path=classes.dex
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=C\:\\androidlib\\native-activity\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+3.set=NATIVE_RESOURCE
+2.set=DEX
+1.baseType=DIRECTORY
+3.path=lib/arm64-v8a/libnative-activity.so
+count=4
+1.set=NATIVE_RESOURCE
+0.path=background.mp3
+3.base=C\:\\androidlib\\native-activity\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+0.set=ASSET
+0.base=C\:\\androidlib\\native-activity\\app\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=lib/x86/libnative-activity.so
