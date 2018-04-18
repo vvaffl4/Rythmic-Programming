@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:3:1-33:12
+INJECTED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:3:1-33:12
+INJECTED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:3:1-33:12
+INJECTED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:3:1-33:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\306bda206f945126dfbfd4f51f47a992\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\cd97c5a79d6b8f8c4e168547bd0c30cc\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\9384e669df0b555956d442d49e67b7b7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\37b8c04d9c9b612a53e4962606c10338\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\3d2c1974053d5b25acd4a172d0cdfab6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\902951f1aa8157b41f0ec198bd38ae5c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\47b65e81fae1476f1ef0bc2b794f395a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\5ad88aad009cd8a7f961e8c629c9ce9e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\6146ce7a9ea8df8b0a925b6ec8d5fc43\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\e7aec08ce76ebbf4176d94ac5188431d\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:3:1-33:12
+INJECTED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:3:1-33:12
+INJECTED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:3:1-33:12
+	package
+		ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:4:11-48
+		INJECTED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:6:11-36
+		INJECTED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:5:11-34
+		INJECTED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:8:3-94
+	android:name
+		ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:8:20-75
+application
+ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:11:3-31:17
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\306bda206f945126dfbfd4f51f47a992\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\306bda206f945126dfbfd4f51f47a992\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\cd97c5a79d6b8f8c4e168547bd0c30cc\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\cd97c5a79d6b8f8c4e168547bd0c30cc\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\9384e669df0b555956d442d49e67b7b7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\9384e669df0b555956d442d49e67b7b7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\37b8c04d9c9b612a53e4962606c10338\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\37b8c04d9c9b612a53e4962606c10338\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\3d2c1974053d5b25acd4a172d0cdfab6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\3d2c1974053d5b25acd4a172d0cdfab6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\902951f1aa8157b41f0ec198bd38ae5c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\902951f1aa8157b41f0ec198bd38ae5c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\47b65e81fae1476f1ef0bc2b794f395a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\47b65e81fae1476f1ef0bc2b794f395a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\5ad88aad009cd8a7f961e8c629c9ce9e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\5ad88aad009cd8a7f961e8c629c9ce9e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\6146ce7a9ea8df8b0a925b6ec8d5fc43\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\6146ce7a9ea8df8b0a925b6ec8d5fc43\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\e7aec08ce76ebbf4176d94ac5188431d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\e7aec08ce76ebbf4176d94ac5188431d\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:15:7-39
+	android:hasCode
+		ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:16:7-30
+	android:fullBackupContent
+		ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:13:7-40
+	android:icon
+		ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:14:7-41
+	android:allowBackup
+		ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:12:7-34
+activity#android.app.NativeActivity
+ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:20:5-30:16
+	android:label
+		ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:21:15-47
+	android:configChanges
+		ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:22:15-65
+	android:name
+		ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:20:15-56
+meta-data#android.app.lib_name
+ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:24:7-25:52
+	android:value
+		ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:25:18-49
+	android:name
+		ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:24:18-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:26:7-29:23
+action#android.intent.action.MAIN
+ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:27:9-61
+	android:name
+		ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:27:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:28:9-69
+	android:name
+		ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml:28:19-66
+uses-sdk
+INJECTED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml
+INJECTED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\306bda206f945126dfbfd4f51f47a992\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\306bda206f945126dfbfd4f51f47a992\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\cd97c5a79d6b8f8c4e168547bd0c30cc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\cd97c5a79d6b8f8c4e168547bd0c30cc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\9384e669df0b555956d442d49e67b7b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\9384e669df0b555956d442d49e67b7b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\37b8c04d9c9b612a53e4962606c10338\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\37b8c04d9c9b612a53e4962606c10338\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\3d2c1974053d5b25acd4a172d0cdfab6\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\3d2c1974053d5b25acd4a172d0cdfab6\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\902951f1aa8157b41f0ec198bd38ae5c\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\902951f1aa8157b41f0ec198bd38ae5c\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\47b65e81fae1476f1ef0bc2b794f395a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\47b65e81fae1476f1ef0bc2b794f395a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\5ad88aad009cd8a7f961e8c629c9ce9e\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\5ad88aad009cd8a7f961e8c629c9ce9e\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\6146ce7a9ea8df8b0a925b6ec8d5fc43\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\6146ce7a9ea8df8b0a925b6ec8d5fc43\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\e7aec08ce76ebbf4176d94ac5188431d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\e7aec08ce76ebbf4176d94ac5188431d\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml
+INJECTED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\306bda206f945126dfbfd4f51f47a992\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml
+		ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml
+		ADDED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\androidlib\native-activity\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\306bda206f945126dfbfd4f51f47a992\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\9384e669df0b555956d442d49e67b7b7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\9384e669df0b555956d442d49e67b7b7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\37b8c04d9c9b612a53e4962606c10338\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\37b8c04d9c9b612a53e4962606c10338\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\3d2c1974053d5b25acd4a172d0cdfab6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\3d2c1974053d5b25acd4a172d0cdfab6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\902951f1aa8157b41f0ec198bd38ae5c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\902951f1aa8157b41f0ec198bd38ae5c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\47b65e81fae1476f1ef0bc2b794f395a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\47b65e81fae1476f1ef0bc2b794f395a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\5ad88aad009cd8a7f961e8c629c9ce9e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\5ad88aad009cd8a7f961e8c629c9ce9e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\6146ce7a9ea8df8b0a925b6ec8d5fc43\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\6146ce7a9ea8df8b0a925b6ec8d5fc43\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\e7aec08ce76ebbf4176d94ac5188431d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\e7aec08ce76ebbf4176d94ac5188431d\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\306bda206f945126dfbfd4f51f47a992\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\patri\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\306bda206f945126dfbfd4f51f47a992\AndroidManifest.xml:27:13-51
